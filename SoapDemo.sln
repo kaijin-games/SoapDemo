@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoapDemo", "SoapDemo\SoapDemo.csproj", "{351FAE79-5A00-4589-873B-1D054BBC8F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoapDemo2", "SoapDemo2\SoapDemo2.csproj", "{29E7040B-046C-4939-A9C4-4395B7FC171B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoapDemo2", "SoapDemo2\SoapDemo2.csproj", "{29E7040B-046C-4939-A9C4-4395B7FC171B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV to XML Demo", "CSV to XML Demo\CSV to XML Demo.csproj", "{C0998A4E-3DAB-41BB-A5E0-15A639C4BCA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{29E7040B-046C-4939-A9C4-4395B7FC171B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E7040B-046C-4939-A9C4-4395B7FC171B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E7040B-046C-4939-A9C4-4395B7FC171B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0998A4E-3DAB-41BB-A5E0-15A639C4BCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0998A4E-3DAB-41BB-A5E0-15A639C4BCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0998A4E-3DAB-41BB-A5E0-15A639C4BCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0998A4E-3DAB-41BB-A5E0-15A639C4BCA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
